@@ -4,8 +4,8 @@
 To write a C Program to Print a right triangle star Pattern
 
 ## Algorithm
-1. 1.Start.
-2.Declare the variables i,j,k,n.
+1. Start.
+2. Declare the variables i,j,k,n.
 3. Prompt the user to enter a value.
 4. Read the value using scanf.
 5.Enter number of rows and columns.  
